@@ -1,0 +1,14 @@
+C:\Users\Prajak104098\Desktop\.NET\LoanApp\bin\Debug\net6.0\LoanApp.exe
+C:\Users\Prajak104098\Desktop\.NET\LoanApp\bin\Debug\net6.0\LoanApp.deps.json
+C:\Users\Prajak104098\Desktop\.NET\LoanApp\bin\Debug\net6.0\LoanApp.runtimeconfig.json
+C:\Users\Prajak104098\Desktop\.NET\LoanApp\bin\Debug\net6.0\LoanApp.dll
+C:\Users\Prajak104098\Desktop\.NET\LoanApp\bin\Debug\net6.0\LoanApp.pdb
+C:\Users\Prajak104098\Desktop\.NET\LoanApp\obj\Debug\net6.0\LoanApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prajak104098\Desktop\.NET\LoanApp\obj\Debug\net6.0\LoanApp.AssemblyInfoInputs.cache
+C:\Users\Prajak104098\Desktop\.NET\LoanApp\obj\Debug\net6.0\LoanApp.AssemblyInfo.cs
+C:\Users\Prajak104098\Desktop\.NET\LoanApp\obj\Debug\net6.0\LoanApp.csproj.CoreCompileInputs.cache
+C:\Users\Prajak104098\Desktop\.NET\LoanApp\obj\Debug\net6.0\LoanApp.dll
+C:\Users\Prajak104098\Desktop\.NET\LoanApp\obj\Debug\net6.0\refint\LoanApp.dll
+C:\Users\Prajak104098\Desktop\.NET\LoanApp\obj\Debug\net6.0\LoanApp.pdb
+C:\Users\Prajak104098\Desktop\.NET\LoanApp\obj\Debug\net6.0\LoanApp.genruntimeconfig.cache
+C:\Users\Prajak104098\Desktop\.NET\LoanApp\obj\Debug\net6.0\ref\LoanApp.dll
